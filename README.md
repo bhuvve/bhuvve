@@ -1,8 +1,8 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/bhuvanachandram/">
 <img align="left" alt="Bhuvanachandra's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-<a href="https://twitter.com/the_puskar">
-<img align="left" alt="Puskar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/bhuvanachandra">
+<img align="left" alt="Bhuvvi's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/bhuvi_bhuvvi/">
 <img align="left" alt="Buvanachandra's Insta" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
