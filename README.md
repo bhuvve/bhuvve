@@ -4,8 +4,8 @@
 <a href="https://twitter.com/the_puskar">
 <img align="left" alt="Puskar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/thepuskar/">
-<img align="left" alt="Puskar's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+<a href="https://www.instagram.com/bhuvi_bhuvvi/">
+<img align="left" alt="Buvanachandra's Insta" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
 <br />
 <br />
