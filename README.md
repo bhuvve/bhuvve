@@ -11,9 +11,8 @@
 <br />
 Hi, i'm Bhuvanachandra Manchala, a passionate self-taught Software developer from Hyderabad. 
 <br />
-I have a positive approach to new problems, as well as the ability to adapt. I've always had to relearn and unlearn things. Today, I’m working as a Assistant System Engineer in TCS, where I use Python to automate my daily tasks.
- <br />
-- 🔭 I’m currently working **as a Software Developer**
+I have a positive approach to new problems, as well as the ability to adapt. I've always had to relearn and unlearn things. <br />
+- 🔭 I’m currently looking for a software developer role in a reputed company.
  <br />
 - 💼 Any freelance work? do reach, [email](mailto:bhuvve@gmail.com) :)
 <br />
