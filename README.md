@@ -1,28 +1,23 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/bhuvanachandram/">
-<img align="left" alt="Bhuvanachandra's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-<a href="https://twitter.com/bhuvanachandra">
-<img align="left" alt="Bhuvvi's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/bhuvi_bhuvvi/">
-<img align="left" alt="Buvanachandra's Insta" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
-<br />
-<br />
-Hi, i'm Bhuvanachandra Manchala, a passionate self-taught Software developer from Hyderabad. 
-<br />
-I have a positive approach to new problems, as well as the ability to adapt. I've always had to relearn and unlearn things. <br />
-- 🔭 I’m currently looking for a software developer role in a reputed company.
- <br />
-- 💼 Any freelance work? do reach, [email](mailto:bhuvve@gmail.com) :)
-<br />
-**Languages and tools:**
-<br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<br />
-<br />
-📈 My github stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvvi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&&count_private=true" alt="Bhuvanachandra's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvvi&layout=compact&theme=buefy&hide_border=true" /> |
+<h1 align="center">Hi 👋, I'm Bhuvanachandra Manchala</h1>  
+
+# 💫 About Me:
+🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>📝 I regularly write articles on<br>https://https://www.linkedin.com/in/bhuvve/recent-activity/shares/<br><br>📫 How to reach me bhuvanachandramanchala@gmail.com<br><br>⚡ Fun fact I love watching and playing cricket, and chess<br><br><br><br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvve/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bhuvi_bhuvvi/)  
+
+
+# 💻 Tech Stack:
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/)   [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/) [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/distribution) [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://pypi.org/project/numpy/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pypi.org/project/pandas/) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://pypi.org/project/plotly/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://pypi.org/project/scikit-learn/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhuvve&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhuvve&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvve&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
