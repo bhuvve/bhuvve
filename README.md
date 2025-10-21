@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvanachandra Manchala</h1>  
 
 # 💫 About Me:
-🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>📝 I regularly write articles on<br>https://https://www.linkedin.com/in/bhuvve/recent-activity/shares/<br><br>📫 How to reach me bhuvanachandramanchala@gmail.com<br><br>⚡ Fun fact I love watching and playing cricket, and chess<br><br><br><br>
+🔭 A Data Science Enthusiast.<br><br>📝 I regularly write articles on<br>https://https://www.linkedin.com/in/bhuvve/recent-activity/shares/<br><br>📫 How to reach me bhuvanachandramanchala@gmail.com<br><br>⚡ Fun fact I love watching and playing cricket, and chess<br><br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvve/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bhuvi_bhuvvi/)  
